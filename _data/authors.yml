@@ -10,15 +10,29 @@
 #   email: someone@something.com //--> optional
 
 -
-  id: someone
-  name: Some Person
+  id: 0001
+  name: Cesar Pzs
   avatar: /profile-pic.jpg
-  bio: this is some more information about the author.
+  bio: Founder and Owner 
   facebook: https://www.facebook.com/someone
   twitter: https://twitter.com/someone
   instagram: http://instagram.com/someone
   email: someone@something.com
 -
-  id: person
+  id: 0002
+  name: Vanesa R
   avatar: /profile-pic.jpg
-  bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
+  bio: Vanesa R
+  -
+  id: 0003
+  name: Adrian R
+  avatar: /profile-pic.jpg
+  bio: Adrian R
+
+  -
+  id: 0004
+  Name: Julian P
+  avatar: /profile-pic.jpg
+  bio: 
+
+

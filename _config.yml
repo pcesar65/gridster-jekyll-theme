@@ -1,8 +1,8 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
+name: GoNumero
+description: Daily news, finance, podcast, politics and economics. 
 destination: jekyllbuild
-url: #place url
+url: www.gonumero.me
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
 paginate: 8
